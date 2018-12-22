@@ -86,7 +86,7 @@ after_build:
           "Content-type" = "application/json"
         }
         $accountName = 'shimat'
-        $projectSlug = 'appveyor_sandbox'
+        $projectSlug = 'appveyor-sandbox'
 
         $downloadLocation = 'C:\projects'
 
